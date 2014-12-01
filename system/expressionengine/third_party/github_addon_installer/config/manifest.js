@@ -1723,5 +1723,65 @@
     "addon_path": "third_party/",
     "theme_path": "themes/third_party/",
     "stars": 35
+    },
+  "caution_tape": {
+    "user": "pixelfear",
+    "repo": "EE-Caution-Tape",
+    "addon_path": "system/expressionengine/third_party/",
+    "theme_path": "themes/third_party/"
+  },
+  "cache_buster": {
+    "user": "erikreagan",
+    "repo": "er.cache_buster.ee_addon",
+    "addon_path": "system/expressionengine/third_party/"
+  },
+  "dev_docs": {
+    "user": "focuslabllc",
+    "repo": "dev_docs.ee_addon",
+    "theme_path": "themes/third_party/"
+  },
+  "environment": {
+    "user": "davist11",
+    "repo": "Environment-EE-Addon",
+    "addon_path": "third_party/"
+  },
+  "fieldpack": {
+    "user": "pixelandtonic",
+    "repo": "pt_field_pack",
+    "addon_path": "ee2/third_party/"
+  },
+  "health_check": {
+    "user": "surprisehighway",
+    "repo": "health_check.ee",
+    "theme_path": "themes/third_party/"
+  },
+  "zenbu_mx_cloner": {
+    "user": "nicolasbottari",
+    "repo": "zenbu_mx_cloner.zenbu_addon.ee2_addon",
+    "add_folder": true
+  },
+  "superfish_admin": {
+    "user": "joeldbirch",
+    "repo": "superfish-ee-control-panel",
+    "addon_path": "system/expressionengine/third_party/",
+    "theme_path": "themes/third_party/"
+  },
+  "rc_notes": {
+    "user": "andrewfairlie",
+    "repo": "rc_notes",
+    "add_folder": true
+  },
+
+  "mx_plural": {
+    "user": "MaxLazar",
+    "repo": "mx_plural",
+    "addon_path": "system/expressionengine/third_party/"
+  },
+
+  "mx_cloner": {
+    "user": "MaxLazar",
+    "repo": "mx_cloner",
+    "addon_path": "system/expressionengine/third_party/"
   }
+
 }
